@@ -1,3 +1,8 @@
+'''
+Ejercicio 2-2
+  En este ejercicio aprendemos tener diferentes variables y como hacer operaciones
+  matemáticas con ellas.
+'''
 edad = 24
 meses = 5
 cantidad_puertas = 4
@@ -13,3 +18,4 @@ print(resultado_suma)
 pi = 3.14
 radio = 2
 area_circulo = pi * (radio * radio)
+print("El area de un ciculo con radio {} es: {}".format(radio, area_circulo))
