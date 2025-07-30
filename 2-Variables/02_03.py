@@ -1,3 +1,6 @@
+'''
+  Ejemplo de variables booleanas
+'''
 es_soleado = True
 esta_lloviendo = False
 
