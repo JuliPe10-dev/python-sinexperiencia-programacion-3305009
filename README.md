@@ -29,6 +29,17 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
+## Estudiante
+
+**JuliPe10**
+
+A pesar que ya tengo un conocimiento previo de python y cosas basicas, siento que al tomar este repositorio y ir mirandolo junto a las clases, hacen que recuerde de nuevo lo basico, a su ves, siento que cuando se me olvide algo, gracias a los comendarios que he dejado para mi los puedo entender, tal ves no si llego a perder la memoria pero tampoco creo llegar hasta allá.
+
+No pretendo hacer pasar esto mio, simplemente lo moldie, asi como se toma un libro de colegio de ingles o de matematicas que lo vamos rayando para responder (aunque aqui eso era pecado por que se podia revender) es la misma dinamica.
+
+Besos a mi futuro yo cuando vuelva o a la persona que lea esta estupides ^3^
+
+
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/python-sin-experiencia-en-programacion
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFz7df8xBvUcQ/learning-public-crop_675_1200/0/1702284039109?e=2147483647&v=beta&t=4Zsc4TpVvvJUOu-wsIrvEs2MlcNWy6VUkFUif12KbZk
