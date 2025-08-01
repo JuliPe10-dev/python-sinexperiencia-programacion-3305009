@@ -29,7 +29,7 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
-## Estudiante
+### Estudiante
 
 **JuliPe10**
 
